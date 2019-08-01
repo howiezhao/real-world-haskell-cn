@@ -13,9 +13,7 @@ Real World Haskell 中文版
    :scale: 45
 
 
-本文档是《\ `Real World Haskell <http://book.realworldhaskell.org/>`_\ 》一书的简体中文翻译版本，
-翻译工作正在进行中，
-欢迎加入： https://github.com/huangz1990/real-world-haskell-cn
+本文档是《\ `Real World Haskell <http://book.realworldhaskell.org/>`_\ 》一书的简体中文翻译版本，项目 Fork 自 `huangz1990 的翻译版本 <https://github.com/huangz1990/real-world-haskell-cn>`_ ，在原版的基础上进行了再优化，欢迎继续补充！
 
 .. toctree::
    :maxdepth: 3
@@ -110,7 +108,7 @@ Real World Haskell 中文版
 * 在一些比较复杂的地方添加注释，帮助理解
 
 关注项目进度 / 反馈意见或建议 / 提交你的翻译贡献，
-请访问\ `项目的 github 页面 <https://github.com/huangz1990/real-world-haskell-cn>`_\ 。
+请访问\ `项目的 GitHub 页面 <https://github.com/howiezhao/real-world-haskell-cn>`_\ 。
 
 本文档的部分内容参考了 `AlbertLee <http://www.feime.net/>`_ 的译本，在此对他表示感谢。
 
