@@ -5,7 +5,7 @@
 
 此项目 Fork 自 `huangz1990 的翻译版本 <https://github.com/huangz1990/real-world-haskell-cn>`_ ，在原版的基础上进行了再优化，欢迎继续补充！
 
-在线阅读本文档请访问： http://cnhaskell.com/
+项目文档托管在 Read the Docs，在线阅读地址为：https://rwhcn.readthedocs.io
 
 
 译者名单
